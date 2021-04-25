@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905804312247",
+    "project_id": "picfriends-75d9d",
+    "storage_bucket": "picfriends-75d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905804312247:android:e281516dde46140e05e732",
+        "android_client_info": {
+          "package_name": "com.example.picfriendstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905804312247-raggqeuojbs6rnb5of7gqedic632hvl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picfriendstest",
+            "certificate_hash": "8d4e663250cb11a02a9b3d36e85627738cd5a0e4"
+          }
+        },
+        {
+          "client_id": "905804312247-kfp8egc3rh42frai5nvmlb5nfle0j54g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQv1gIGqhI50bvtvxxVYYg6Zd2Afhz9_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905804312247-kfp8egc3rh42frai5nvmlb5nfle0j54g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
